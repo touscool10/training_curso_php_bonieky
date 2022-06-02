@@ -1,3 +1,3 @@
-# training_curso_php_bonieky
+# training_COURSE_php_bonieky
 
 
